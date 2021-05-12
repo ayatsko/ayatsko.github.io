@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Research', folder: 'pages', file: 'research.html'}
-- {name: 'Outreach', folder: 'pages', file: 'resources.html'}
+- {name: 'Outreach', folder: 'pages', file: 'outreach.html'}
 - {name: 'a crumb', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Photos', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
