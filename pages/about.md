@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "About"
-author: "Abbey Yatsko"
-categories: facts
+author:
+categories: 
 tags: [sample]
 image: research.jpg
 ---
