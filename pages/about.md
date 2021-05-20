@@ -1,10 +1,6 @@
 ---
-layout: post
-title: "About"
-author:
-categories: 
-tags: [sample]
-image: research.jpg
+layout: misc
+title: About
 ---
 My name is Abbey and I am finishing the first year of my PhD at George Washington University, located in our nation's capitol - Washington, D.C.. I study under the advisement of the incredible Dr. Amy Zanne, investigating global questions in carbon cycling, forest systems, and decomposition. Prior to beginning my PhD at GWU, I earned my B.S in Environmental Science at Cornell University in Ithaca, NY, focusing on biogeochemistry and climate change. 
 
