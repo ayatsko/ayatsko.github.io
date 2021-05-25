@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Contact
+title: a crumb
 ---
 this is my blog 
 
