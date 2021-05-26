@@ -4,7 +4,7 @@ title: "Resource: Getting Started with Millennial and Jekyll"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: gettingstarted.png
+image: gettingstarted.JPG
 ---
 
 # Millennial
