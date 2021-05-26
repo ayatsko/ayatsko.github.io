@@ -4,7 +4,7 @@ title: "Resource: Text Formatting in Markdown"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: markdown.jpg
 ---
 
 # Markdown Support
