@@ -4,7 +4,7 @@ title: "New Publication"
 author: "Abbey Yatsko"
 categories: facts
 tags: [sample]
-image: newpub.jpeg
+image: newpub.JPG
 ---
 
 New paper alert in Frontiers in Ecology and Evolution: Assessing the Australian Termite Diversity Anomaly: How Habitat and Rainfall Affect Termite Assemblages!
