@@ -2,6 +2,8 @@
 layout: misc
 title: Outreach
 ---
+As I continue with my PhD, I am always seeking out science communication opportunities and ways to engage people other than just scientists in my work. It is so incredibly important to make sure that scientific ideas burst out of the academic bubble that they are too often kept. I strongly believe that by dedicating time to outreach and scientific communication, we include new perspectives, consider new vantage points, and make our voices heard by all. Not to mention, it can be loads of fun!
+
 ## What's your termite twin? Take the quiz to find out!
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/Termites_Donna.jpg)
