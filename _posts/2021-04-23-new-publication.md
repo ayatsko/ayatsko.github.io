@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New publication"
+title: "New Publication"
 author: "Abbey Yatsko"
 categories: facts
 tags: [sample]
