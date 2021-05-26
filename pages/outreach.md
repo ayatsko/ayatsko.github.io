@@ -12,4 +12,4 @@ Most recently, Becca and I created a Buzzfeed quiz that determines which termite
 
 ## Connecting with Cornell undergraduates on a climate change minor panel. 
 
-At the end of April, I had an opportunity to speak to Cornell undergraduates about my experiences with the climate change minor from my time as a student, as well as how the minor lead into a climate change-focused career. 
+At the end of April, I had an opportunity to speak to Cornell undergraduates about my experiences with the climate change minor from my time as a student, as well as how the minor lead into a climate change-focused career. It was great to speak as a recent alumni and offer advice from the academic / PhD track perspective to students interested in the intersection of climate change and earth systems reasearch.
