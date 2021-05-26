@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moving a crumb"
+title: "Moving 'a crumb'"
 author: "Abbey Yatsko"
 categories: documentation
 tags: [documentation,sample]
