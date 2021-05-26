@@ -8,4 +8,4 @@ My website layout comes on behalf of Millennial, a minimalist Jekyll theme. The 
 
 This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at the theme creator](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
-![]({{ site.url }}{{ site.baseurl }}/pics/contact.JPG){: style="width: 250px; float: left; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/pics/contact.JPG)
