@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Resource: Getting Started with Millennial and Jekyll"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
