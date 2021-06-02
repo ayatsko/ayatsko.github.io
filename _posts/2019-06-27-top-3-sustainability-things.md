@@ -9,7 +9,7 @@ image: travel.jpeg
 
 It is a tricky thing to be on the road and keep up with the sustainability habits you develop while rooted in your permanent setting. Travelling is always at the top of my experience priority list, but it certainly comes with some environmental downsides. Stepping away from the normalcy of my collegetown home has encouraged me to ponder the ways that travel challenges my low-impact living. So, without any further ado, these are the top 3 things that, in their absence, my heart has grown fonder of during my Australian travels. My hope is that as my adventures continue, I will be able to write an additional list of substitutes I have been able to track down to take the place of each travel grievance that I have compiled below.
 
-1. My CO+OP back at home
+**#1 My CO+OP back at home**
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/coop.jpeg)
 
@@ -17,7 +17,7 @@ Ithaca’s GreenStar food CO+OP is one of the best things to happen to humanity 
 
 Last week our research team was working quite remotely, and I was reminded of how environmentally un-friendly camping diets can be. While we were able to make a stop at the fresh and local fruit and veg market in Cairns before heading off to the rainforest and savanna field sites, there were still many packaged items that we packed away into the esky (Australian lingo for cooler!). From pre-packaged Pad Thai mixes to crackers and crisps, these foods are certainly more convenient when access to refrigeration and conventional cooking stoves is limited – yet this quality of convenience does not save them from their inevitable plastic waste contribution. 
 
-2. Homemade bread from my bread machine  
+**#2 Homemade bread from my bread machine**
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/breadmachine.jpeg)
 
@@ -25,7 +25,7 @@ Last year I left an internship with Greenpeace with a new perspective on persona
 
 The best part about bread is that it fuels my toast addition – toast with avocado and egg, toast with tasty new jams, toast with peanut butter and banana – no matter what, you need bread to make these exquisite combinations happen! My qualms of plastic-wrapped bread were sorted out last Christmas when Santa got creative and gifted me a bread machine. Last semester, I was able to (almost) completely rid plastic from my morning toast (the only issue was the plastic bag of bread yeast that came pre-packaged, but I note that it has been many months and the bag has yet to be emptied). In my travels we have been purchasing loaves of bread from the grocery store, but I cringe to see the bread wrapped in plastic when I know I have figured out a way to avoid this source of pollution. 
 
-3. Non-diesel fuelled vehicles 
+**#3 Non-diesel fuelled vehicles**
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/vehicle.jpeg)
 
