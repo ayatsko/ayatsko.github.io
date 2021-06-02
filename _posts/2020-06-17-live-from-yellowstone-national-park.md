@@ -21,7 +21,7 @@ One part of my job is the behind the scenes work that makes for safe experiences
 
 I am also making the transition to working more with wildlife biology and wildlife management. In Yellowstone, every major wildlife group has a crew (such as the wolf crew, bear crew, fish people, ungulate crew). There is a bird-focused crew within the park that I have been volunteering some time with and learning a lot from. I assist them with whatever project needs they have, and the scope is pretty wide. For example, we have done some work with Golden Eagles, which have been a stunning organism to observe to say the least.
 
-![]({{ site.url }}{{ site.baseurl }}/pics/yellow1.jpeg
+![]({{ site.url }}{{ site.baseurl }}/pics/yellow1.jpeg)
 
 ## **A: What is it like to live in a national park?**
 
@@ -31,7 +31,7 @@ I live with some of the most incredible wildlife, and this has given me a newfou
 
 > “I live with some of the most incredible wildlife, and this has given me a newfound appreciation for these species.” - Grace Smith 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/yellow2.jpeg
+![]({{ site.url }}{{ site.baseurl }}/pics/yellow2.jpeg)
 
 I live in Mammoth which is both the headquarters for some park operations as well as a relatively accessible spot in the park, and this is a bit of a downside because visitors are always abundant. Sometimes visitors are in my backyard for a picnic, so you lose a bit of privacy by living where I do. There are informational signs up by my house, or sometimes a walking tour will pass right by, or sometimes people will go to jail (yes, there is a jail in Yellowstone) and that is right by my house. So just generally, a lot of people coming through my yard, so it is not always peace and serenity.
 
@@ -41,7 +41,7 @@ Managing visitors and their not-so-informed decisions can also be a downside. So
 
 **G**: Well, I love my Co-op. It’s about an hour and a half drive away in Bozeman, so I usually pair other errands with a big Co-op run. Also, we have a really awesome composting system going in the park. It’s great that we have this resource because composting was pretty accessible in college and I didn’t like the idea of letting that habit go when I moved out here. But luckily I didn’t have to! 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/yellow3.jpeg
+![]({{ site.url }}{{ site.baseurl }}/pics/yellow3.jpeg)
 
 I have become more involved with our local community and local agriculture; my roommate and I recently signed up for a CSA (community supported agriculture) share, and we just got our first box last Tuesday – we have such incredible produce right now, and it makes me excited to learn how to cook with veggies I have little experience with! I’ve never had chard in my life, and we got the biggest bag of chard in last week’s share and I was like “here we go!”. I also get fresh eggs from my boss, and I love my happy chickens. My meat consumption is way down, but when I do buy it I look to purchase local game (a couple pounds of elk has been acquired for this year) from local markets.
 
@@ -49,7 +49,7 @@ One thing that is great about living remotely is that there are no real options 
 
 ## **A: Has working in the park changed the way that you see human and nature interactions?**
 
-![]({{ site.url }}{{ site.baseurl }}/pics/yellow4.jpeg
+![]({{ site.url }}{{ site.baseurl }}/pics/yellow4.jpeg)
 
 **G**: Yes. I think the park allows people to connect more with their public land and nature in general. Sometimes I see some developments here at first as a little too commercial, but I am then humbled by the fact that my body is able to go do backcountry and crazy hiking adventures. This land shouldn’t just be for people who can access the parks in that off-the-grid way.
 
@@ -63,7 +63,7 @@ That is what makes the parks unique in comparison to Forest Service land or wild
 
 **G**: In general, I have a strong connection with red-tailed hawks because they were the first birds that I significantly watched at Cornell. And I realized, “woah, this is something people do, they look at birds”. In Yellowstone, at the banding stations my favorite bird to hold is a [pink-sided dark-eyed junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco/media-browser/66115751), because they are so soft and very fluffy and really just gorgeous.
 
-![]({{ site.url }}{{ site.baseurl }}/pics/yellow5.jpeg
+![]({{ site.url }}{{ site.baseurl }}/pics/yellow5.jpeg)
 
 Catching up with Grace and talking about her experience with wilderness and human-nature interactions made me want to pack up the car and head out west, pronto. I hope her story inspires you to do the same, or at least explore the natural spaces that are local to you! 
 
@@ -74,6 +74,3 @@ Cheers,
 abbey 
 
 (All photos credited to Grace Smith)
-
-
-
