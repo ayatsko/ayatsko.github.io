@@ -6,6 +6,7 @@ categories: sample
 tags: [sample]
 image: lake.jpeg
 ---
+(ADAPTED VERSION FROM [a crumb]{https://acrumb.com/}
 
 I know many readers of *a crumb* will find the view of Cayuga Lake, overlooking Cornell’s west campus from Libe Slope, to be all too familiar. Cayuga Lake is one of the hallmark treasures of Ithaca, and a gold-tinted summertime sunset reflecting over Cayuga’s waters is unmatched, and more or less quintessential to the Cornell experience. Normally, the blustery winters of Ithaca catapult me back to these memories of warmer days, but recently my memories were called upon when I received a particular handbook in the mail. 
 
