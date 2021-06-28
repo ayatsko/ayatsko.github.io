@@ -3,4 +3,5 @@ layout: misc
 title: Curriculum Vitae
 ---
 
-[embed]http://ayatsko.github.io/Yatsko_CV_2021.pdf[/embed]{: style="width: 250px; float: left; margin: 0px 10px"}
+<iframe src="/pdfs/Yatsko_CV_2021.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](/pdfs/Yatsko_CV_2021.pdf).
