@@ -6,7 +6,7 @@ categories: sample
 tags: [sample]
 image: lake.jpeg
 ---
-(ADAPTED VERSION FROM [a crumb]{https://acrumb.com/}
+(ADAPTED VERSION FROM [a crumb](https://acrumb.com/))
 
 I know many readers of *a crumb* will find the view of Cayuga Lake, overlooking Cornell’s west campus from Libe Slope, to be all too familiar. Cayuga Lake is one of the hallmark treasures of Ithaca, and a gold-tinted summertime sunset reflecting over Cayuga’s waters is unmatched, and more or less quintessential to the Cornell experience. Normally, the blustery winters of Ithaca catapult me back to these memories of warmer days, but recently my memories were called upon when I received a particular handbook in the mail. 
 
@@ -15,12 +15,12 @@ I know many readers of *a crumb* will find the view of Cayuga Lake, overlooking 
 The handbook, titled ‘Lakeside Living in a Changing Climate’, is a publication that I modestly claim as one of my own collaborations. This past summer, I was afforded the unique opportunity to work alongside the Cayuga Lake Watershed Network (CLWN) to create a guide to lake-friendly and climate-aware living practices for lakeside homeowners. The Cayuga Lake Watershed Network, as expressed in their mission statement, “identifies key threats to Cayuga Lake and its watershed and advocates for solutions that support a healthy environment and vibrant, sustainable communities”. In working through this handbook project, I found every bit of the mission statement to come true through my work. Even though it is now the dead of winter and this is clearly not the timeliest review of my experience with CLWN, I figure it is still worth sharing impactful takeaways from the experience, nonetheless.
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/lake2.jpeg)
-https://www.cayugalake.org/the-watershed/more-watershed-maps/
+[Map](https://www.cayugalake.org/the-watershed/more-watershed-maps/) of the Cayuga Lake Watershed
 
 So why does the CLWN exist? Well, there is a similar story that follows many human-inhabited places: they start off as abundant in their resources and well-being, and then human intervention and activity alters the ecology, health, and prosperity of the land, oftentimes in a negative way. In the Cayuga Lake region, lakeside development has disturbed key shoreline habitat by welcoming higher rates of erosion, and surrounding land use change (such as clearing forests for agriculture and development) has funneled excess nitrogen and phosphorus into the lake basin. Ultimately, human intervention in the region has changed the way water moves throughout the watershed. While the aforementioned perturbances represent only a handful of examples, the CLWN actively addresses topics of this flavor in order to protect the lake. Without proper protection and management (this word makes me wince a little, I’ll get to that in a bit) of human activities and pursuits within the areas surrounding Cayuga Lake, many of the services of the lake or activities that we cherish in will degrade through time. A tourist economy based on the health and appearance of Cayuga will go bust if harmful algal blooms (HABs) run rampant each summer. Generally speaking, if the community as a whole fails to think in a climate-forward way, the dooms of global climate change will catch up and eventually begin to show their true colors in our little pocket of the world. So, the CLWN steps in to monitor changes in the lake and watershed ecosystem though time and also acts to make the community aware when potential harm is on the horizon.
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/lake3.jpeg)
-https://www.cayugalake.org/harmful-algal-blooms/all-about-habs/
+[Harmful Algal Blooms (HABs)](https://www.cayugalake.org/harmful-algal-blooms/all-about-habs/) in Cayuga Lake
 
 Back to the handbook project: in my time with the CLWN, I worked alongside John Abel to investigate and compile resources to promote sustainable habits and best environmental practices for lakeside living. The project goal was to take this information, condense it into an attractive, readable form, and then distribute the resource to lakeshore residents. In the process of writing the handbook, I engaged with numerous perspectives on grassroots-led environmental stewardship as well as local experts in fields such as home energy efficiency and wastewater treatment. From citizen science research on harmful algal blooms taking on an ecological perspective to taking a look at local land ordinances and building codes to infuse a governmental perspective, it was further proved to me that no environmental stewardship goal can be accomplished without an interdisciplinary mindset. 
 
