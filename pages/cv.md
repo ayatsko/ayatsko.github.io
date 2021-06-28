@@ -3,4 +3,4 @@ layout: misc
 title: Curriculum Vitae
 ---
 
-figure out how to embed a PDF her e
+<a href="/pdfs/Yatsko_CV_2021.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
