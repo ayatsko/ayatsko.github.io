@@ -5,7 +5,7 @@ title: Photos
 A collection of photos from the field, life, and good hikes! 
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/ghostpipe.jpg)
-'Ghost pipes' (*Monotropa uniflora*) spotted in the Shenandoahs - this unique plant prefers parasitism to photosynthesis, obtaining nutrients by tapping into tree roots through myccorhizal networks to obtain nutrients necessary for growth
+'Ghost pipes' (*Monotropa uniflora*) spotted in the Shenandoahs - this unique plant prefers parasitism to photosynthesis, obtaining nutrients by tapping into tree roots through mycorrhizal networks to obtain nutrients necessary for growth
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/SERC.jpg)
 Impressive cloud formations after a long day of summer field work at the Smithsonian Environmental Research Center in Edgewater, MD
