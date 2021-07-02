@@ -20,3 +20,5 @@ My supecific current and ongoing research projects are as follows:
 2. Stem damage across a precipitation gradient in Northern Queensland, Australia: As a REU student in the summer of 2019, we measured internal stem damage of tropical trees across a rainfall gradient in Northern Australia. Using a resistograph drill, we were able to examine whether or not trees incurred internal damage (i.e., missing heartwood). We then investigated the predictors of this stem damage (rainfall, DBH, wood density) in order to understand how this changes our understanding of aboveground biomass accounting in tropical forests. Stay in the loop - the study is to be published (hopefully) soon!
 
 3. Deadwood microbial communities at Tyson Rot Plot: Working alongside Marissa Lee, I am learning about the DADA2 pipeline to explore uses in examining community composition of deadwood decomposers. We are interested in targeting methanogenic players as well, having implications for how carbon is being released in forest-floor processes. 
+
+![]({{ site.url }}{{ site.baseurl }}/pics/termite_fieldwork.JPG)
