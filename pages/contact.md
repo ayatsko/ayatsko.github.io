@@ -2,7 +2,7 @@
 layout: misc
 title: Contact
 ---
-Please feel free to reach out via email at ayatsko1@gmail.com with any questions, comments, or collaborative ideas.
+Please feel free to reach out via email at ayatsko1@gmail.com with any questions, comments, or collaborative ideas. On campus at the University of Miami, you can find me at Cox 204.
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/contact.JPG)
 
