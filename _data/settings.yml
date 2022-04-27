@@ -18,7 +18,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/ayatsko'}
-- {icon: 'github', link: 'https://orcid.org/0000-0001-8515-7629'}
+- {icon: '/pics/orchidID.png', link: 'https://orcid.org/0000-0001-8515-7629'}
 - {icon: 'envelope', link: 'mailto:ayatsko1@gmail.com'}
 - {icon: 'instagram', link: 'https://www.instagram.com/ayatskoo/'}
 
