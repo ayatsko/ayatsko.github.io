@@ -13,12 +13,12 @@ Check out my two main projects for the course below:
 In Project 1, *Tracing the path of MANGROVE CARBON*, I illustrate how carbon cycles in a mangrove forest and how the mangrove ecosystem is a vital element in global carbon storage. Mangroves provide important habitat for organisms in the intertidal zone, protect shorelines from erosion and storm surges, and are also a key resource for storing carbon, which has relevant implications for global climate change. 
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/project1.png)
-Download the infographic PDF here!
+Download the infographic PDF [here](/pdfs/yatsko_project1_final.pdf)!
 
 In Project 2, *Wasted and Insecure: an exploration of overlaps in food waste and household food insecurity* I explore food waste within a global context, and  then narrow down to focus on food waste in the US and how food insecurity is happening simultaneously. The infographic illustrates how food waste happens at different parts of the supply chain, and how these loses depend on where in the world you are. By focusing on food waste dynamics in the US, which are largely on behalf of consumer decisions, I presented food waste challenges as a potential opportunity to address food insecurity in our country. In some sense, food waste and food insecurity are complementary problems, as they can serve as each other's solutions. 
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/project2.png)
-Download the infographic PDF here!
+Download the infographic PDF [here](/pdfs/yatsko_project2_final.pdf)!
 
 ## What's your termite twin? Take the quiz to find out!
 
