@@ -9,7 +9,7 @@ This semester (fall 2022) I am learning interactive data visualization concepts 
 
 In our first project on input visualizations, I created an interactive bracket where users choose their favorite animal throughout a series of 'battles' (which was inspired by the famed [March Mammal Madness](https://libguides.asu.edu/MarchMammalMadness/2022MMMResults), a collaborative scicomm initiative from researchers at ASU). I learned many basics in web styling via CSS, page building in HTML, and included interactive elements (click and drag features, recording and retrieving stored data, etc.) by incorporating Javascript. 
 
-Although rudimentary in function and styled for the early 2000's, I'm proud of my interactive bracket titled 'Animal Time', so do have a go at selecting your favorite animal and contributing to the growing dataset [here](https://em90t3.csb.app/)! 
+Although rudimentary in function and styled for the early 2000's, I'm proud of my interactive bracket titled 'Animal Time', so do have a go at selecting your favorite animal and contributing to the growing dataset [here](https://em90t3.csb.app/)! (And be on the lookout for a Animal Bracket 2.0, likley to feature exclusively termites...)
 
 ## Science communication and infographics
 
