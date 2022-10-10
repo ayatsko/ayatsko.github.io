@@ -12,4 +12,4 @@ This past June we all convened at the James Cook University Daintree Rainforest 
 
 On the science side, we did fieldwork in the rainforest, built ecosystem models, cracked open termite mounds - all to better understand the process of tropical forest carbon cycling. On the fun side, we explored science communication through art, baked termite-themed cakes, ran along the beach, always had G&Ts on tap, and workshopped a termite card game. With these brilliant mentors, I am growing as a scientist and learning how our role in society is so much larger than simply turning out publications.
 
-A special shoutout to our artistic collaborator [Donna Davis](https://donnadavisartist.weebly.com/) and her unique, beautiful take on the WTF research. Nature is truly an artistic place, and I am forever energized by the reflections on natural spaces that Donna’s work portrays.
+A special shoutout to our artistic collaborator [Donna Davis](https://donnadavisartist.weebly.com/) and her unique, beautiful take on the WTF research. Nature is truly an artistic place, and I am forever energized by the reflections on natural spaces that Donna's work portrays.
