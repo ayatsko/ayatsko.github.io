@@ -4,6 +4,13 @@ title: Outreach
 ---
 As I continue with my PhD, I am always seeking out science communication opportunities and ways to engage people other than just scientists in my work. It is so incredibly important to make sure that scientific ideas burst out of the academic bubble that they are too often kept. I strongly believe that by dedicating time to outreach and scientific communication, we include new perspectives, consider new vantage points, and make our voices heard by all. Not to mention, it can be loads of fun!
 
+## Interactive data visualization
+This semester (fall 2022) I am learning interactive data visualization concepts in a web environment with Prof. [Vinicius Sueiro](https://vsueiro.com/). In the course, we are using three different exercises to explore interactive data viz: **input**, **exploratory**, and **explanatory** visualizations. I am learning HTML, CSS, and Javascript with the ultimate goal of elevating my dissertation research communication skills to a creative new level. 
+
+In our first project on input visualizations, I created an interactive bracket where users choose their favorite animal throughout a series of 'battles' (which was inspired by the famed [March Mammal Madness](https://libguides.asu.edu/MarchMammalMadness/2022MMMResults), a collaborative scicomm initiative from researchers at ASU). I learned many basics in web styling via CSS, page building in HTML, and included interactive elements (click and drag features, recording and retrieving stored data, etc.) by incorporating Javascript. 
+
+Although rudimentary in function and styled for the early 2000's, I'm proud of my interactive bracket titled 'Animal Time', so do have a go at selecting your favorite animal and contributing to the growing dataset [here](https://em90t3.csb.app/)! 
+
 ## Science communication and infographics
 
 In the spring of 2022 I began to learn about the magic of using infographics as a data visualization technique. In a course taught by the inspirational [Alberto Cairo](https://albertocairo.com/) in the Journalism department at the University of Miami, I have been building skills in data viz and Adobe programs to ultimately explore how infographics can communicate scientific data in distilled yet aesthetic ways. 
