@@ -16,9 +16,6 @@ In celebration of Becca's successful PhD defense in the spring of 2022, we whipp
 ![]({{ site.url }}{{ site.baseurl }}/pics/bigtermite.JPG)
 The biggest termite mound that I have ever seen, spotted in Litchfield National Park outside of Darwin, Northern Territory. This species, Nasutitermes triodiae, builds massive 'cathedral mounds' that impress termitologists and tourists alike. 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/residrill2.jpg)
-National Geographic photographer or residriller? I am using an instrument called a resistograph drill in order to determine how hollow trees in the savanna are - although the tripod makes it seem like I'm on a photography expedition, I actually use it to keep the drill still as I measure trees. 
-
 ![]({{ site.url }}{{ site.baseurl }}/pics/pnw_fire.jpg)
 An evening by the fire at Pennyweight Station, Brooklyn Wildlife Sanctuary, Far North Queensland Australia. Michaela (an REU student) and I worked hard together to sample savanna trees for internal stem damage at this stunning site. 
 
