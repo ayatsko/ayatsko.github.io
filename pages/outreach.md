@@ -27,6 +27,11 @@ In Project 2, *Wasted and Insecure: an exploration of overlaps in food waste and
 ![]({{ site.url }}{{ site.baseurl }}/pics/project2.png)
 Download the infographic PDF [here](/pdfs/yatsko_project2_final.pdf)!
 
+## Environmental Careers day at the Fairchild Botanic Garden
+![]({{ site.url }}{{ site.baseurl }}/pics/careersday.jpg)
+
+Amy and I had the unique opportunity to speak with grade school student from Miami-Dade county about what life is like as a research scientist. We showed pictures of the places we travel in order to study decomposition and carbon cycling. The students were really knowledgeable about decomposition, and I found it surprising how many students knew that termites produced methane! 
+
 ## What's your termite twin? Take the quiz to find out!
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/Termites_Donna.jpg)
