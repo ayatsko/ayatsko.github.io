@@ -5,10 +5,12 @@ title: Outreach
 As I continue with my PhD, I am always seeking out science communication opportunities and ways to engage people other than just scientists in my work. It is so incredibly important to make sure that scientific ideas burst out of the academic bubble that they are too often kept. I strongly believe that by dedicating time to outreach and scientific communication, we include new perspectives, consider new vantage points, and make our voices heard by all. Not to mention, it can be heaps of fun!
 
 ## Art science installation at SPARK Festival
+![]({{ site.url }}{{ site.baseurl }}/pics/artsci.jpg)
+
 Working with artist Donna Davis, I had the opportunity to co-create an art installation exploring the fluxes and flows of carbon throughout the natural and human worlds. As part of Inhabited Ipswich, our work titled *The Carbon Store: Gas Exchange* creatively explores the hidden world of carbon in some of its many varied forms. Playing between science-fiction and science-fact, we communicate the dichotomy of carbon in nature, and carbon that humans refine; removing carbon from its reciprocal setting and exploring the idea of carbon as a retail commodity, and in this case in a shop in Ipswich, QLD. Nature provides so much for us, however, we rarely stop to ask; what is the cost of consuming her resources or how we can repay her in return…
 
 Find full information on the installation and event [here](https://www.inhabitedipswich.com/donna-rawlings)
-), and follow @eco_art_collective for more science facts and fun!
+), and follow [@eco_art_collective](https://www.instagram.com/eco_art_collective/?next=%2F) for more science facts and fun!
 
 ## Interactive data visualization
 For the fall 2022 semester I am learning interactive data visualization concepts in a web environment with Prof. [Vinicius Sueiro](https://vsueiro.com/). In the course, we are using three different exercises to explore interactive data viz: **input**, **exploratory**, and **explanatory** visualizations. I am learning HTML, CSS, and Javascript with the ultimate goal of elevating my dissertation research communication skills to a creative new level. 
