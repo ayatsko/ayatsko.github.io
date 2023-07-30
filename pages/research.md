@@ -9,9 +9,9 @@ Forests store carbon in the towering trees that we walk amongst in the woods, bu
 
 I am interested in the dynamics of this carbon balancing process: specifically, how do trees store carbon as they live, and how is carbon released from trees once they die? 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/termitemound.jpg)
-
 Both insects and microbes play a role in wood decomposition. Termites are of particular interest when it comes to wood carbon cycling, especially in tropical systems where they can hollow out the inside of living trees. Termites will also produce methane in addition to carbon dioxide as they break down organic materials, having interesting implications for global methane budgets. In my PhD, I am investigating how termites in the Australian savanna interact with the carbon stored in trees, as well as the role that termite mounds play in the methane budget.
+
+![]({{ site.url }}{{ site.baseurl }}/pics/termitemound.jpg)
 
 My current research projects are as follows:
 
