@@ -4,8 +4,10 @@ title: Research
 ---
 ![]({{ site.url }}{{ site.baseurl }}/pics/research.jpg){: style="width: 250px; float: left; margin: 0px 10px"}
 
-Forests store carbon in the towering trees that we walk amongst in the woods, but you don't have to only look up to find carbon. At the ground level, soils, accumulated organic matter, and fallen deadwood also stores carbon. However, as these materials break down in the decay process, gaseous forms of carbon are released, thus moving carbon out of 'terrestrial storage' and into that of the atmosphere. 
 
+Forests store carbon in the towering trees that we walk amongst in the woods, but you don’t have to only look up to find carbon. At the ground level, soils, accumulated organic matter, and fallen deadwood all store carbon. However, as these materials break down, gaseous forms of carbon are released, thus moving carbon out of ‘terrestrial storage’ and into that of the atmosphere.
+
+I am interested in the dynamics of this carbon balancing process: specifically, how do trees store carbon as they live, and how is carbon released from trees once they die? 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/weather.jpg)
