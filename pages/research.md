@@ -6,7 +6,7 @@ title: Research
 
 Forests store carbon in the towering trees that we walk amongst in the woods, but you don't have to only look up to find carbon. At the ground level, soils, accumulated organic matter, and fallen deadwood also stores carbon. However, as these materials break down in the decay process, gaseous forms of carbon are released, thus moving carbon out of 'terrestrial storage' and into that of the atmosphere. 
 
-I am interested in the dynamics of this carbon balancing process: specifically, how does wood decay both through time and across different environmental gradients? Insects and microbes interact with deadwood decomposition, breaking down structural components in order for wood to go from freshly-fallen to spongy and indescernable from the surrounding soils. For this reason, I am also interested in characterizing decomposer communities across temporal and environmental gradients. 
+
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/weather.jpg)
 
