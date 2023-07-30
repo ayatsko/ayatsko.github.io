@@ -19,6 +19,8 @@ My current research projects are as follows:
 
 To get a full look at the inside of trees and how damage is occurring and changing, I worked with a team from Arbor Meta to conduct a destructive harvest study in the Iron Range. In this project we are determining how damage accumulates throughout the entire tree but are also able to test the accuracy of terrestrial laser scanning (TLS) in predicting tree aboveground biomass. Stay tuned for a publication highlighting our findings, hopefully out soon! 
 
+![cuttree](https://github.com/ayatsko/ayatsko.github.io/assets/53024069/b2b944bd-042f-45e6-a29e-fabddde1bb07)
+
 In a project at the Australian Wildlife Conservancy’s Brooklyn Sanctuary, I am using a resistograph drill to measure internal stem damage at four points at increasing heights on the tree. I will test how the proportion and area of damage changes across heights on the main stem to better understand how vertical trends in internal damage reduces how much biomass a tree can store.
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/residrill.jpg)
