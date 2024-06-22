@@ -2,7 +2,7 @@
 layout: misc
 title: About
 ---
-![]({{ site.url }}{{ site.baseurl }}/pics/yatsko_headshot.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/pics/headshot.jpeg){: style="width: 250px; float: right; margin: 0px 10px"}
 
 I am a fourth year PhD student with Dr. Amy Zanne at the University of Miami studying forest carbon, wood decomposition, and Australian termites. I ask questions about terrestrial carbon cycling in savanna ecosystems, and much of my fieldwork takes place in Far North Queensland, Australia. I am based with the Zanne Lab in Coral Gables, Florida and work with incredible lab collaborators worldwide. 
 
