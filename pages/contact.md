@@ -4,7 +4,7 @@ title: Contact
 ---
 Please feel free to reach out via email at ayatsko1@gmail.com with any questions, comments, or collaborative ideas. On campus at the University of Miami, you can find me at Cox 204.
 
-![]({{ site.url }}{{ site.baseurl }}/pics/contact.JPG)
+![]({{ site.url }}{{ site.baseurl }}/pics/WhatsApp Image 2024-05-24 at 14.43.48 (1).jpeg)
 
 My website layout comes on behalf of Millennial, a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog (not to mention, it's free!). You can find everything you need to get started with this theme under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
 
