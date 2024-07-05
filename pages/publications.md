@@ -7,6 +7,9 @@ Below is a compilation of various published research papers that I have led or c
 ## Modelling internal stem damage in savanna trees: Error in aboveground biomass with terrestrial laser scanning and allometry
 *Methods in Ecology and Evolution 2024, read it [here](https://doi.org/10.1111/2041-210X.14375)*
 
+![]({{ site.url }}{{ site.baseurl }}/pics/calvert2024.jpg)
+*What it takes to chop down and weigh a tree. Photo courtesy of Indi Gambold*
+
 In the first published paper from my PhD, Dr. Jed Calvert and I led this study to investigate how internal stem damage in living trees impacted differemt methods of aboveground biomass estimation. We used a destructive harvest to validate how terrestrial laser scanning (TLS) and allometric equations estimate tree biomass, and also model how internal damage occurred through the entire stem, base to crown. We found that TLS was a highly accurate tool for estimating tree aboveground biomass, and that greater amounts of internal stem damage led to TLS overpredicting tree biomass. This work offers a new perspective on inaccuracies that internal stem damage may introduce into forest carbon accounting, particularly in savanna ecosystems where termite abundance and activity is high. 
 
 ## The challenge of estimating global termite methane emissions
