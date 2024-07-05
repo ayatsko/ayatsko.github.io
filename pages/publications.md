@@ -2,7 +2,7 @@
 layout: misc
 title: Publications
 ---
-Below is a compilation of various published research papers that I have led or collaborated on during my PhD. 
+Below is a compilation of various published research papers that I have led or collaborated on during my PhD. Also, feel free to check out my [Google Scholar](https://scholar.google.com/citations?user=AlnEorwAAAAJ&hl=en) profile.
 
 ## Modelling internal stem damage in savanna trees: Error in aboveground biomass with terrestrial laser scanning and allometry
 *Methods in Ecology and Evolution 2024, read it [here](https://doi.org/10.1111/2041-210X.14375)*
@@ -52,7 +52,6 @@ Understanding wood decomposition is an important element of the terrestrial carb
 
 In this paper, we assembled an international team of researchers from Australia, the UK, and the USA to better understand how termite diversity shifted over a tropical rainfall gradient in North Queensland, Australia. Led by Dr. Rebecca Clement, our study found that termite abundance in mounds and dead wood occupancy was greater at dry savanna sites compared to wet rainforest sites, and termites had greatest activity at dry sites. We observed highest termite species richness and abundance at dry sites, and low species diversity in the rainforest: we deem this the 'Australian termite diversity anomaly', and suggest this may be driven by how termites of different feeding groups colonized Australia. 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/IMG_3971.JPG)
 {% if even_odd == 1 %}
 </div>
 {% endif %}
