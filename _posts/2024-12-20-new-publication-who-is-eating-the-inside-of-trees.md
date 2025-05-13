@@ -4,24 +4,25 @@ title: "New publication: who is eating the inside of trees?"
 author: "Abbey Yatsko"
 categories: documentation
 tags: [documentation,sample]
-image: DJI_0718.jpg
+image: FE_cover.jpg
 ---
-In October 2022 a team of researchers and I set out on a quest to laser scan a bunch of trees, cut them down, and inspect their insides for termite and microbial damage. The result was a lot of hard work in a remote Cape York landscape, many new insights on the process of internal stem damage, and a fresh new paper out in Methods in Ecology and Evolution, which you can find [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14375)!
+Following previous work in the Iron Range of far North Queensland, Australia, we recently published a paper exploring the decomposers that contribute to wood decomposition occurring within live trees. We leveraged the data from our previous destructive harvest study (read it [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14375)!) to determine the relative roles of microbes and termites in the internal tree damage process. Now, you can read all about our [new findings](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14727) published in Functional Ecology!
 
-![]({{ site.url }}{{ site.baseurl }}/pics/MEE.png)
+![]({{ site.url }}{{ site.baseurl }}/pics/FE1.png)
 
-In short, we found that internal tree hollowing impacted about half of the trees in our study, and was greatest at the tree base, tapering off as we reached the crown branches. 
+To do this, we took cross section samples from different positions in the tree and attributed internal damage to microbial or termite decomposers. Then, for each decomposer, we could examine how the amount of damage changed for different positions in the tree, as well as total tree-level damaged biomass. Also, we wanted to know if termites and microbes decomposed wood in the same part of the tree – are they dining next to one another, or remaining separate? 
 
-Also, we found that terrestrial laser scanning was a very accurate tool for estimating aboveground tree biomass. Compared to allometric models, which are often applied in forestry and carbon measurement, terrestrial laser scanning had the lowest bias in aboveground biomass estimates. 
+![]({{ site.url }}{{ site.baseurl }}/pics/FE1_figure.jpg)
+_A snapshot of our sampling design. Panel b) gives you an idea of what microbial damage looks like, and panel c) and d) depict termite internal stem damage._
 
-We tested a range of allometric equations, and there was variable performance amongst the models – some offered surprisingly strong estimates, close to that of the terrestrial laser scanning. 
+We found that internal damage, from both termites and microbes, was greatest at the bottom of the tree, and decreased into the crown. Termites and microbes decayed wood in the same tree but were keeping distance from one another – it was not so common to find termite and microbially-damaged wood right next to one another. 
 
-![]({{ site.url }}{{ site.baseurl }}/pics/MEE_figure.jpg)
-_Internal stem damage modelled throughout a terrestrial laser scanned tree_
+Also, tree species differed in the amount of termite and microbe damage – one tree species, _Corymbia clarksoniana_, seemed to be quite tasty from the termite perspective. 
 
-Lastly, we explored how damage on the inside of trees impacted biomass estimates. Unsurprisingly, we found that when biomass was estimated using terrestrial laser scanning, large trees with significant hollowing were overestimated. Interestingly, the allometric models were less affected by internal damage, potentially due to hollow trees being included in the datasets from which such models were built. 
-
-It's quite exciting to have this paper out there, as it marks the first of my Ph.D. chapters to be published. Thanks to the whole team that was involved, and especially my co-author Jed for his support along the way.
+Overall, we showed that together termites and microbes were decomposing about 350 kilograms of wood per hectare inside of trees, and this is about half of the estimated downed deadwood stock of savanna ecosystems of the region. But, wood decomposition from internal stem damage is going unaccounted for in carbon cycling models, so this is certainly an area for model improvement!
  
-![]({{ site.url }}{{ site.baseurl }}/pics/team.jpg)
-_Photo of the team and cover photo courtesy of Indi Gambold_
+![]({{ site.url }}{{ site.baseurl }}/pics/FE_methods.jpg)
+_Making measurements of our cross section samples!_
+
+As the second chapter of my Ph.D., I am very happy to have this study out in Functional Ecology. Paired with our other paper in Methods in Ecology and Evolution, we are able to comprehensively understand the biology of internal stem damage as well as how it impacts forest biomass measurement.
+
