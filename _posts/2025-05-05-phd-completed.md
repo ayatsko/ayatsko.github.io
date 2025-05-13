@@ -16,7 +16,7 @@ A special shoutout to my supervisor Amy for her mentorship and for making the pa
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/phddone.jpg)
 
-If you're keen to read a 200 page summary of the last 5 years of my life, check back soon to access my dissertation titled: Uncovering Unseen Elements of Termite Carbon Cycling in Australian Tropical Savannas: From Hollow Trees to Methane Emissions
+If you're keen to read a 200+ page summary of the last 5 years of my life, check back soon to access my dissertation titled: Uncovering Unseen Elements of Termite Carbon Cycling in Australian Tropical Savannas: From Hollow Trees to Methane Emissions.
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/termite_phdfinish.jpg)
 
