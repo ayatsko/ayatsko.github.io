@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New publication: who is eating the inside of trees?"
+title: "New publication: who is eating the inside of trees in the Australian savanna?"
 author: "Abbey Yatsko"
 categories: documentation
 tags: [documentation,sample]
