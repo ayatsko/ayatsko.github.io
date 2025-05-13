@@ -4,13 +4,29 @@ title: Publications
 ---
 Below is a compilation of various published research papers that I have led or collaborated on during my PhD. Also, feel free to check out my [Google Scholar](https://scholar.google.com/citations?user=AlnEorwAAAAJ&hl=en) profile.
 
+## Rotten to the core? Drivers of the vertical profile and accumulation of internal tree stem damage
+*Functional Ecology 2025, read it [here](https://doi.org/10.1111/1365-2435.70061)*
+
+![]({{ site.url }}{{ site.baseurl }}/pics/residrill_in_action.jpg)
+_The resistograph drill in action._
+
+Little is known about the vertical distribution of internal tree stem damage, and in the paper we sought to answer the question: is a single measurement of internal damage representative of the entire tree trunk? Also, I wanted to test if external damage of the tree indicated how much damage was occurring internally. Using a tool called a resistograph drill, we measured the vertical profile of internal stem damage in savanna trees. We found that more wood at the bottom of the tree was damaged, but the ratio of damaged to undamaged wood was maintained through the vertical profile. Overall, the single measurement was sufficient to characterize the damage state of the lower tree stem. Plus, we found that external termite damage predicted more internal damage, and larger, denser trees were more likely to be termite damaged on the outside.
+
+## Why are trees hollow? Termites, microbes and tree internal stem damage in a tropical savanna
+*Functional Ecology 2024, read it [here](https://doi.org/10.1111/1365-2435.14727)*
+
+![]({{ site.url }}{{ site.baseurl }}/pics/FE1_figure.jpg)
+_A snapshot of our sampling design. Panel b) gives you an idea of what microbial damage looks like, and panel c) and d) depict termite internal stem damage._
+
+In this paper we build off of a previous study to understand how two biotic players, termites and microbes, are involved with the internal stem damage process. We found that internal damage, from both termites and microbes, was greatest at the bottom of the tree, and decreased into the crown. Termites and microbes decayed wood in the same tree but were keeping distance from one another, and some tree species were more internally damaged by termites than by microbes. Overall, in this paper we describe what organisms are decomposing wood within living trees and quantify where they are removing the most carbon, thus revealing shortcomings in current savanna carbon accounting.
+
 ## Modelling internal stem damage in savanna trees: Error in aboveground biomass with terrestrial laser scanning and allometry
 *Methods in Ecology and Evolution 2024, read it [here](https://doi.org/10.1111/2041-210X.14375)*
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/calvert2024.jpg)
 *What it takes to chop down and weigh a tree. Photo courtesy of Indi Gambold*
 
-In the first published paper from my PhD, Dr. Jed Calvert and I led this study to investigate how internal stem damage in living trees impacted differemt methods of aboveground biomass estimation. We used a destructive harvest to validate how terrestrial laser scanning (TLS) and allometric equations estimate tree biomass, and also model how internal damage occurred through the entire stem, base to crown. We found that TLS was a highly accurate tool for estimating tree aboveground biomass, and that greater amounts of internal stem damage led to TLS overpredicting tree biomass. This work offers a new perspective on inaccuracies that internal stem damage may introduce into forest carbon accounting, particularly in savanna ecosystems where termite abundance and activity is high. 
+In the first published paper from my Ph.D., Dr. Jed Calvert and I led this study to investigate how internal stem damage in living trees impacted differemt methods of aboveground biomass estimation. We used a destructive harvest to validate how terrestrial laser scanning (TLS) and allometric equations estimate tree biomass, and also model how internal damage occurred through the entire stem, base to crown. We found that TLS was a highly accurate tool for estimating tree aboveground biomass, and that greater amounts of internal stem damage led to TLS overpredicting tree biomass. This work offers a new perspective on inaccuracies that internal stem damage may introduce into forest carbon accounting, particularly in savanna ecosystems where termite abundance and activity is high. 
 
 ## The challenge of estimating global termite methane emissions
 *Global Change Biology 2024, read it [here](https://doi.org/10.1111/gcb.17390)*
