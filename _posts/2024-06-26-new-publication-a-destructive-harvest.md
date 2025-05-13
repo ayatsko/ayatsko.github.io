@@ -6,19 +6,21 @@ categories: documentation
 tags: [documentation,sample]
 image: forest.jpeg
 ---
-What makes us humans value a forest? Is it the inherent beauty of a soaring canopy, the interwoven labyrinth of plant and animal interactions, or the wealth of knowledge that still remains to be uncovered amongst the trees? 
-
-These abstractions can be hard to quantify, which invites a more numeric method for understanding the trees. we can think about the value of forests in terms of carbon storage, and this is the basis of forestry carbon credits. 
+In October 2022 a team of researchers and I set out on a quest to laser scan a bunch of trees, cut them down, and inspect their insides for termite and microbial damage. The result was a lot of hard work in a remote Cape York landscape, many new insights on the process of internal stem damage, and a fresh new paper out in Methods in Ecology and Evolution, which you can find [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14375)!
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/treeweigh.jpg)
 
-How do we figure out how much carbon trees store? The first step is to apply highly accurate remote sensing, terrestrial-based LiDAR, to closely reconstruct tree architecture and biomass. Then, we ground-truth the data. Teaming up with [Arbor Meta](https://www.arbormeta.au/) in a brilliantly beautiful slice of the planet, the Iron Range of Far North Queensland, we tested how accurately LiDAR scans predicted tree biomass the old fashioned way - cutting them down and scaling them up. 
+In short, we found that internal tree hollowing impacted about half of the trees in our study, and was greatest at the tree base, tapering off as we reached the crown branches. 
+
+Also, we found that terrestrial laser scanning was a very accurate tool for estimating aboveground tree biomass. Compared to allometric models, which are often applied in forestry and carbon measurement, terrestrial laser scanning had the lowest bias in aboveground biomass estimates. 
+
+We tested a range of allometric equations, and there was variable performance amongst the models – some offered surprisingly strong estimates, close to that of the terrestrial laser scanning. 
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/hollowtree.jpg)
 
-Amidst the chainsaws and crane scales, we used this opportunity to explore patterns of internal tree stem damage from termites and fungi. The full story is still unfolding, but from our preliminary data, trees are not as solid as they seem from the outside. In my dissertation, I will build on this study to quantify how internal damage may change the carbon value of trees.
+Lastly, we explored how damage on the inside of trees impacted biomass estimates. Unsurprisingly, we found that when biomass was estimated using terrestrial laser scanning, large trees with significant hollowing were overestimated. Interestingly, the allometric models were less affected by internal damage, potentially due to hollow trees being included in the datasets from which such models were built. 
 
-The team encapsulated a true sense of wonder about the interworkings of our world. Novel angles on climate research melded with many curious, articulate minds. Without a doubt it is exciting to picture how our findings will shape emerging carbon economy schemas.
+It's quite exciting to have this paper out there, as it marks the first of my Ph.D. chapters to be published. Thanks to the whole team that was involved, and especially my co-author Jed for his support along the way.
  
- ![]({{ site.url }}{{ site.baseurl }}/pics/team.jpg)
+![]({{ site.url }}{{ site.baseurl }}/pics/team.jpg)
 _Photos of the process courtesy of Indi Gambold_
