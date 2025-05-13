@@ -6,7 +6,8 @@ categories: documentation
 tags: [documentation,sample]
 image: FE_cover.jpg
 ---
-Following previous work in the Iron Range of far North Queensland, Australia, we recently published a paper exploring the decomposers that contribute to wood decomposition occurring within live trees. We leveraged the data from our previous destructive harvest study (read it [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14375)!) to determine the relative roles of microbes and termites in the internal tree damage process. Now, you can read all about our [new findings](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14727) published in Functional Ecology!
+Following previous work in the Iron Range of far North Queensland, Australia, we recently published a paper exploring the decomposers that contribute to wood decomposition occurring within live trees. We leveraged the data from our previous destructive harvest study (read it [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14375)!) to determine the relative roles of microbes and termites in the internal tree damage process. Now, you can read all about our [new findings](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14727) published in Functional Ecology, or have a listen to the [podcast](https://buff.ly/NzZgdVg) that I did with the British Ecological Society which tells the story of this study and our results.
+
 
 ![]({{ site.url }}{{ site.baseurl }}/pics/FE1.png)
 
